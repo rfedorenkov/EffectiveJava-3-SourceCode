@@ -18,7 +18,7 @@ public class SpellChecker {
     }
 
     public static List<String> suggestion(String typo) {
-        // ...
+        // ... 
         return null;
     }
 }
